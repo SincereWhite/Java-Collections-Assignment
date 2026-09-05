@@ -18,4 +18,4 @@ The user enters eight unique words through the console.
 
 ## Output
 
-The program sorts the words and displays the results, including the longest and shortest words entered.
+The program displays the original list, the longest and shortest words, and different sorted versions of the list. It also shuffles the list, searches for a word, and shows a few extra Collections methods.
