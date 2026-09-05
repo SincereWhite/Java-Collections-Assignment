@@ -18,4 +18,4 @@ The user enters eight unique words through the console.
 
 ## Output
 
-The program processes the words and displays the results back to the user.
+The program sorts the words and displays the results, including the longest and shortest words entered.
